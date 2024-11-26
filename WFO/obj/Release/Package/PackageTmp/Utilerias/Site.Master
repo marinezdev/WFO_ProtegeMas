@@ -1,0 +1,207 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="WFO.SiteMaster" %>
+
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="ajaxToolkit" %>
+
+<%@ Register Src="~/Utilerias/Menu.ascx" TagPrefix="uc1" TagName="Menu" %>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="../Imagenes/logo.ico" type="image/ico" />
+    <title>Work Flow</title>
+
+    <!-- Bootstrap -->
+    <link href="../CSS/vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <!-- Font Awesome -->
+    <link href="../CSS/vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+    <!-- PNotify -->
+    <link href="../CSS/vendors/pnotify/dist/pnotify.css" rel="stylesheet" />
+    <link href="../CSS/vendors/pnotify/dist/pnotify.buttons.css" rel="stylesheet" />
+    <!-- Custom Theme Style -->
+    <link href="../CSS/vendors/build/css/custom.css" rel="stylesheet" />
+    <!-- Operador -->
+    <link href="../CSS/cssOperador.css" rel="stylesheet" />
+    <style>
+        @media (max-width: 991px) {
+            .text-xs-right {
+                text-align: right;
+            }
+        }
+    </style>
+    <script>     
+        function ocultarBloqueo() {
+            document.getElementById("divPantallaBloqueo").style.display = "none";
+        }
+    </script>
+
+</head>
+<body class="nav-md">
+    <form id="form1" runat="server" defaultbutton="btnDisableEnter">
+        <asp:Button ID="btnDisableEnter" runat="server" Text="" OnClientClick="return false;" Style="display: none;" />
+        <div class="container body">
+            <div class="main_container">
+                <div class="col-md-3 left_col">
+                    <div class="left_col scroll-view">
+                        <div class="navbar nav_title" style="border: 0; text-align: center;">
+                            <a href="#" class="site_title"><span style="font-weight: bold; font-size: 30px;">METLIFE</span></a>
+                        </div>
+                        <div class="clearfix"></div>
+
+                        <!-- menu profile quick info -->
+                        <div class="profile clearfix">
+                            <div class="profile_pic">
+                                <img src="../../Imagenes/img.jpg" alt="..." class="img-circle profile_img">
+                            </div>
+                            <div class="profile_info">
+                                <span>Institucional:</span>
+                                <h2>
+                                    <asp:Label ID="LblTextNombreUsuario" runat="server"></asp:Label></h2>
+                            </div>
+                        </div>
+                        <!-- /menu profile quick info -->
+                        <hr>
+
+
+                        <!-- HERRAMIENTAS DE MODAL EXIT CARGA -->
+                        <asp:ScriptManager ID="ScriptManager1" runat="server" EnableScriptGlobalization="true" EnableScriptLocalization="true" EnablePageMethods="true">
+                        </asp:ScriptManager>
+
+                        <div id="divPantallaBloqueo" style="width: 100%; height: 100%; left: 0%; position: fixed; z-index: 150; background-color: black; opacity: 0.1; filter: alpha(opacity=90); display: none; overflow: hidden"></div>
+
+                        <ajaxToolkit:ModalPopupExtender ID="mpeLoading" runat="server" BehaviorID="idmpeLoading" PopupControlID="pnlLoading" TargetControlID="imgLoading" EnableViewState="false" BackgroundCssClass="ModalBackground"></ajaxToolkit:ModalPopupExtender>
+
+                        <asp:Panel ID="pnlLoading" runat="server" Width="250" Height="200" HorizontalAlign="Center" CssClass="ModalPopup" EnableViewState="false" Style="display: none; margin: auto">
+                            <br />
+                            <asp:Image runat="server" ID="imgLoading" ImageUrl="~/Imagenes/please-wait-gif-transparent-12.gif" />
+                        </asp:Panel>
+
+                        <uc1:Menu runat="server" ID="menu" />
+
+                        <!-- /menu footer buttons -->
+                        <div class="sidebar-footer hidden-small">
+                            <a data-toggle="tooltip" data-placement="top" title="Settings">
+                                <span class="glyphicon glyphicon-cog" aria-hidden="true"></span>
+                            </a>
+                            <a data-toggle="tooltip" data-placement="top" title="FullScreen">
+                                <span class="glyphicon glyphicon-fullscreen" aria-hidden="true"></span>
+                            </a>
+                            <a data-toggle="tooltip" data-placement="top" title="Lock">
+                                <span class="glyphicon glyphicon-eye-close" aria-hidden="true"></span>
+                            </a>
+                            <a data-toggle="tooltip" data-placement="top" title="Logout" href="login.html">
+                                <span class="glyphicon glyphicon-off" aria-hidden="true"></span>
+                            </a>
+                        </div>
+                        <!-- /menu footer buttons -->
+                    </div>
+                </div>
+
+                <!-- top navigation -->
+                <div class="top_nav">
+                    <div class="nav_menu">
+                        <nav>
+                            <div class="nav toggle">
+                                <a id="menu_toggle"><i class="fa fa-bars"></i></a>
+                            </div>
+                            <ul class="nav navbar-nav navbar-right">
+                                <li class="">
+                                    <!-- <asp:Label ID="lblMensaje" runat="server" Text="" Visible="false"></asp:Label> &nbsp;-->
+                                    <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                                        <img src="../../Imagenes/img.jpg" alt="">
+                                        <asp:Label ID="LblNombreUsuario" runat="server"></asp:Label>
+                                        &nbsp;
+                                        <span class=" fa fa-angle-down"></span>
+                                    </a>
+                                    <ul class="dropdown-menu dropdown-usermenu pull-right">
+                                        <!-- <li><a href="login.html"><i class="fa fa-sign-out pull-right"></i> Salir</a></li> -->
+                                        <li>
+                                            <asp:LinkButton ID="LinkButton1" Text="<i class='fa fa-share-alt-square pull-right'></i> Regreso aplicaciones" CausesValidation="False" OnClick="BtnSalirAplicacion_Click" runat="server" />
+                                        </li>
+                                        <li>
+                                            <asp:LinkButton ID="LinkButton2" Text="<i class='fa fa-sign-out pull-right'></i> Terminar sesión" CausesValidation="False" OnClick="BtnSalirSistema_Click" runat="server" />
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+                <!-- /top navigation -->
+
+                <!-- page content -->
+                <div class="right_col" role="main">
+                    <div id="dvSeparaAreaTrabajo">
+                    </div>
+
+                    <div id="dvCajaAreaDeTrabajo">
+                        <asp:ContentPlaceHolder ID="ContenidoPrincipal" runat="server">
+                        </asp:ContentPlaceHolder>
+                        <br />
+                    </div>
+                </div>
+                <!-- /page content -->
+
+
+                <!-- footer content -->
+                <footer>
+                    <div class="pull-right">
+                        Version: 1.0.0 - 2018 <a href="http://www.asae.com.mx/">Asae Consultores S.A de C.V.</a>
+                    </div>
+                    <div class="clearfix"></div>
+                </footer>
+                <!-- /footer content -->
+            </div>
+        </div>
+    </form>
+    <!-- jQuery -->
+    <script src="../../JS/jquery/dist/jquery.min.js"></script>
+    <!-- Bootstrap -->
+    <script src="../../CSS/vendors/bootstrap/dist/js/bootstrap.min.js"></script>
+
+    <script src="../../JS/nprogress/nprogress.js"></script>
+    
+    <!-- iCheck --
+    <script src="vendors/iCheck/icheck.min.js"></script>
+    
+    <!-- PNotify -->
+    <script src="../../CSS/vendors/pnotify/dist/pnotify.js"></script>
+    <script src="../../CSS/vendors/pnotify/dist/pnotify.buttons.js"></script>
+
+    
+    <!-- Skycons -->
+    <script src="../../JS/skycons/skycons.js"></script>
+    
+    <!-- Custom Theme Scripts -->
+    <script src="../../CSS/vendors/build/js/custom.min.js"></script>
+    <script src="../../JS/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script src="../../JS/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
+    <script src="../../JS/datatables.net-buttons/js/dataTables.buttons.min.js"></script>
+    <script src="../../JS/datatables.net-buttons-bs/js/buttons.bootstrap.min.js"></script>
+    <script src="../../JS/datatables.net-buttons/js/buttons.flash.min.js"></script>
+    <script src="../../JS/datatables.net-buttons/js/buttons.html5.min.js"></script>
+    <script src="../../JS/datatables.net-buttons/js/buttons.print.min.js"></script>
+    <script src="../../JS/datatables.net-fixedheader/js/dataTables.fixedHeader.min.js"></script>
+    <script src="../../JS/datatables.net-keytable/js/dataTables.keyTable.min.js"></script>
+    <script src="../../JS/datatables.net-responsive/js/dataTables.responsive.min.js"></script>
+    <script src="../../JS/datatables.net-responsive-bs/js/responsive.bootstrap.js"></script>
+    <script src="../../JS/datatables.net-scroller/js/dataTables.scroller.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(Inicio);
+        function Inicio() {
+            $("#Ancho").val($("#contenedor").width() - 30)
+            $("#btnFiltrar").click();
+            $(window).resize(function () {
+                $("#Ancho").val($("#contenedor").width() - 30)
+                $("#btnFiltrar").click()
+            });
+        }
+    </script>
+    <script src="../JS/loader.js"></script>
+  </body>
+</html>

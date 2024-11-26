@@ -1,0 +1,76 @@
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Release\WFO.Funciones.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Release\WFO.Funciones.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Release\DevExpress.Web.v17.2.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Release\EPPlus.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Release\itextsharp.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Release\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Release\RFC.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Release\System.IO.Packaging.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Release\WFO.Propiedades.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Release\ConvierteRomanosaLetras.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Release\WFO.Propiedades.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Release\EPPlus.xml
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Release\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\obj\Release\WFO.Funciones.csprojResolveAssemblyReference.cache
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\obj\Release\WFO.Funciones.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\obj\Release\WFO.Funciones.csproj.CopyComplete
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\obj\Release\WFO.Funciones.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\obj\Release\WFO.Funciones.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\bin\Release\WFO.Funciones.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\bin\Release\WFO.Funciones.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\bin\Release\EPPlus.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\bin\Release\OfficeOpenXml.Core.ExcelPackage.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\bin\Release\System.IO.Packaging.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\bin\Release\WFO.Propiedades.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\bin\Release\ConvierteRomanosaLetras.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\bin\Release\WFO.Propiedades.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\bin\Release\EPPlus.xml
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\bin\Release\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\obj\Release\WFO.Funciones.csprojAssemblyReference.cache
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\obj\Release\WFO.Funciones.csproj.CopyComplete
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\obj\Release\WFO.Funciones.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\obj\Release\WFO.Funciones.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\bin\Release\WFO.Funciones.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\bin\Release\WFO.Funciones.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\bin\Release\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\bin\Release\System.IO.Packaging.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\bin\Release\WFO.Propiedades.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\bin\Release\ConvierteRomanosaLetras.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\bin\Release\WFO.Propiedades.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\bin\Release\EPPlus.xml
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\bin\Release\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\obj\Release\WFO.Funciones.csprojAssemblyReference.cache
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\obj\Release\WFO.Funciones.csproj.CopyComplete
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\obj\Release\WFO.Funciones.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\obj\Release\WFO.Funciones.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\bin\Release\WFO.Funciones.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\bin\Release\WFO.Funciones.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\bin\Release\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\bin\Release\System.IO.Packaging.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\bin\Release\WFO.Propiedades.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\bin\Release\ConvierteRomanosaLetras.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\bin\Release\WFO.Propiedades.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\bin\Release\EPPlus.xml
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\bin\Release\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\obj\Release\WFO.Funciones.csprojAssemblyReference.cache
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\obj\Release\WFO.Funciones.csproj.CopyComplete
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\obj\Release\WFO.Funciones.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\obj\Release\WFO.Funciones.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\bin\Release\WFO.Funciones.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\bin\Release\WFO.Funciones.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\bin\Release\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\bin\Release\System.IO.Packaging.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\bin\Release\WFO.Propiedades.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\bin\Release\ConvierteRomanosaLetras.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\bin\Release\WFO.Propiedades.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\bin\Release\EPPlus.xml
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\bin\Release\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\obj\Release\WFO.Funciones.csprojAssemblyReference.cache
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\obj\Release\WFO.Funciones.csproj.CopyComplete
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\obj\Release\WFO.Funciones.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\obj\Release\WFO.Funciones.pdb

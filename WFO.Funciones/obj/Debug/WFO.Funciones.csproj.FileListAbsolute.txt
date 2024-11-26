@@ -1,0 +1,116 @@
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Debug\WFO.Funciones.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Debug\WFO.Funciones.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Debug\DevExpress.Web.v17.2.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Debug\EPPlus.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Debug\itextsharp.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Debug\RFC.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Debug\System.IO.Packaging.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Debug\WFO.Propiedades.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Debug\ConvierteRomanosaLetras.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Debug\WFO.Propiedades.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Debug\EPPlus.xml
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\obj\Debug\WFO.Funciones.csprojResolveAssemblyReference.cache
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\obj\Debug\WFO.Funciones.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\obj\Debug\WFO.Funciones.csproj.CopyComplete
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\obj\Debug\WFO.Funciones.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Funciones\obj\Debug\WFO.Funciones.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\bin\Debug\WFO.Funciones.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\bin\Debug\WFO.Funciones.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\bin\Debug\EPPlus.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\bin\Debug\System.IO.Packaging.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\bin\Debug\WFO.Propiedades.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\bin\Debug\ConvierteRomanosaLetras.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\bin\Debug\WFO.Propiedades.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\bin\Debug\EPPlus.xml
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\obj\Debug\WFO.Funciones.csprojAssemblyReference.cache
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\obj\Debug\WFO.Funciones.csproj.CopyComplete
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\obj\Debug\WFO.Funciones.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Funciones\obj\Debug\WFO.Funciones.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\bin\Debug\WFO.Funciones.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\bin\Debug\WFO.Funciones.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\bin\Debug\System.IO.Packaging.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\bin\Debug\WFO.Propiedades.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\bin\Debug\ConvierteRomanosaLetras.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\bin\Debug\WFO.Propiedades.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\bin\Debug\EPPlus.xml
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\obj\Debug\WFO.Funciones.csprojAssemblyReference.cache
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\obj\Debug\WFO.Funciones.csproj.CopyComplete
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\obj\Debug\WFO.Funciones.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Funciones\obj\Debug\WFO.Funciones.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\bin\Debug\WFO.Funciones.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\bin\Debug\WFO.Funciones.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\bin\Debug\System.IO.Packaging.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\bin\Debug\WFO.Propiedades.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\bin\Debug\ConvierteRomanosaLetras.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\bin\Debug\WFO.Propiedades.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\bin\Debug\EPPlus.xml
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\obj\Debug\WFO.Funciones.csprojAssemblyReference.cache
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\obj\Debug\WFO.Funciones.csproj.CopyComplete
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\obj\Debug\WFO.Funciones.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Funciones\obj\Debug\WFO.Funciones.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\bin\Debug\WFO.Funciones.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\bin\Debug\WFO.Funciones.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\bin\Debug\System.IO.Packaging.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\bin\Debug\WFO.Propiedades.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\bin\Debug\ConvierteRomanosaLetras.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\bin\Debug\WFO.Propiedades.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\bin\Debug\EPPlus.xml
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\obj\Debug\WFO.Funciones.csprojAssemblyReference.cache
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\obj\Debug\WFO.Funciones.csproj.CopyComplete
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\obj\Debug\WFO.Funciones.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Funciones\obj\Debug\WFO.Funciones.pdb
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Funciones\obj\Debug\WFO.Funciones.csproj.AssemblyReference.cache
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Funciones\obj\Debug\WFO.Funciones.csproj.CoreCompileInputs.cache
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Funciones\bin\Debug\WFO.Funciones.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Funciones\bin\Debug\WFO.Funciones.pdb
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Funciones\bin\Debug\DevExpress.Web.v17.2.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Funciones\bin\Debug\EPPlus.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Funciones\bin\Debug\itextsharp.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Funciones\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Funciones\bin\Debug\RFC.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Funciones\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Funciones\bin\Debug\System.IO.Packaging.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Funciones\bin\Debug\WFO.Propiedades.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Funciones\bin\Debug\DevExpress.Data.v17.2.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Funciones\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Funciones\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Funciones\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Funciones\bin\Debug\WFO.Propiedades.pdb
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Funciones\bin\Debug\EPPlus.xml
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Funciones\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Funciones\obj\Debug\WFO.Funciones.csproj.CopyComplete
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Funciones\obj\Debug\WFO.Funciones.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Funciones\obj\Debug\WFO.Funciones.pdb
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Funciones\bin\Debug\WFO.Funciones.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Funciones\bin\Debug\WFO.Funciones.pdb
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Funciones\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Funciones\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Funciones\bin\Debug\System.IO.Packaging.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Funciones\bin\Debug\WFO.Propiedades.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Funciones\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Funciones\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Funciones\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Funciones\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Funciones\bin\Debug\WFO.Propiedades.pdb
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Funciones\bin\Debug\EPPlus.xml
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Funciones\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Funciones\obj\Debug\WFO.Funciones.csproj.AssemblyReference.cache
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Funciones\obj\Debug\WFO.Funciones.csproj.CoreCompileInputs.cache
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Funciones\obj\Debug\WFO.Funciones.csproj.CopyComplete
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Funciones\obj\Debug\WFO.Funciones.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Funciones\obj\Debug\WFO.Funciones.pdb

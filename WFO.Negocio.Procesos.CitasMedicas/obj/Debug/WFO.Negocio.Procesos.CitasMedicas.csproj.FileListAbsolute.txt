@@ -1,0 +1,5 @@
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.CitasMedicas\bin\Debug\WFO.Negocio.Procesos.CitasMedicas.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.CitasMedicas\bin\Debug\WFO.Negocio.Procesos.CitasMedicas.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.CitasMedicas\obj\Debug\WFO.Negocio.Procesos.CitasMedicas.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.CitasMedicas\obj\Debug\WFO.Negocio.Procesos.CitasMedicas.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.CitasMedicas\obj\Debug\WFO.Negocio.Procesos.CitasMedicas.pdb

@@ -1,0 +1,163 @@
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Captura.Masiva.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Captura.Masiva.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Captura.Masiva\bin\Debug\WFO.AccesoDatos.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Funciones.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Propiedades.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Captura.Masiva\bin\Debug\WFO.RegistraLog.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Seguridad.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Captura.Masiva\bin\Debug\DevExpress.Web.v17.2.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Captura.Masiva\bin\Debug\itextsharp.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Captura.Masiva\bin\Debug\EPPlus.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Captura.Masiva\bin\Debug\RFC.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Captura.Masiva\bin\Debug\ConvierteRomanosaLetras.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Captura.Masiva\bin\Debug\WFO.AccesoDatos.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Funciones.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Propiedades.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Captura.Masiva\bin\Debug\WFO.RegistraLog.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Seguridad.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Captura.Masiva\bin\Debug\EPPlus.xml
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Captura.Masiva\obj\Debug\WFO.Negocio.Procesos.Operacion.CapturaMasiva.csprojResolveAssemblyReference.cache
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Captura.Masiva\obj\Debug\WFO.Negocio.Procesos.Operacion.CapturaMasiva.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Captura.Masiva\obj\Debug\WFO.Negocio.Procesos.Operacion.CapturaMasiva.csproj.CopyComplete
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Captura.Masiva\obj\Debug\WFO.Captura.Masiva.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Captura.Masiva\obj\Debug\WFO.Captura.Masiva.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Captura.Masiva.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Captura.Masiva.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Captura.Masiva\bin\Debug\WFO.AccesoDatos.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Funciones.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Propiedades.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Captura.Masiva\bin\Debug\WFO.RegistraLog.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Seguridad.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Captura.Masiva\bin\Debug\DevExpress.Web.v17.2.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Captura.Masiva\bin\Debug\itextsharp.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Captura.Masiva\bin\Debug\EPPlus.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Captura.Masiva\bin\Debug\RFC.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Captura.Masiva\bin\Debug\ConvierteRomanosaLetras.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Captura.Masiva\bin\Debug\WFO.AccesoDatos.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Funciones.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Propiedades.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Captura.Masiva\bin\Debug\WFO.RegistraLog.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Seguridad.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Captura.Masiva\bin\Debug\EPPlus.xml
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Captura.Masiva\obj\Debug\WFO.Negocio.Procesos.Operacion.CapturaMasiva.csprojAssemblyReference.cache
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Captura.Masiva\obj\Debug\WFO.Negocio.Procesos.Operacion.CapturaMasiva.csproj.CopyComplete
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Captura.Masiva\obj\Debug\WFO.Captura.Masiva.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Captura.Masiva\obj\Debug\WFO.Captura.Masiva.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Captura.Masiva.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Captura.Masiva.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\WFO.AccesoDatos.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Funciones.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Propiedades.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\WFO.RegistraLog.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Seguridad.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\DevExpress.Web.v17.2.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\itextsharp.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\EPPlus.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\RFC.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\ConvierteRomanosaLetras.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\WFO.AccesoDatos.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Funciones.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Propiedades.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\WFO.RegistraLog.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Seguridad.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\EPPlus.xml
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Captura.Masiva\obj\Debug\WFO.Negocio.Procesos.Operacion.CapturaMasiva.csprojAssemblyReference.cache
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Captura.Masiva\obj\Debug\WFO.Negocio.Procesos.Operacion.CapturaMasiva.csproj.CopyComplete
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Captura.Masiva\obj\Debug\WFO.Captura.Masiva.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Captura.Masiva\obj\Debug\WFO.Captura.Masiva.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Captura.Masiva.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Captura.Masiva.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\WFO.AccesoDatos.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Funciones.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Propiedades.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\WFO.RegistraLog.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Seguridad.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\DevExpress.Web.v17.2.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\itextsharp.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\EPPlus.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\RFC.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\ConvierteRomanosaLetras.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\WFO.AccesoDatos.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Funciones.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Propiedades.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\WFO.RegistraLog.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Seguridad.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Captura.Masiva\bin\Debug\EPPlus.xml
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Captura.Masiva\obj\Debug\WFO.Negocio.Procesos.Operacion.CapturaMasiva.csprojAssemblyReference.cache
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Captura.Masiva\obj\Debug\WFO.Negocio.Procesos.Operacion.CapturaMasiva.csproj.CopyComplete
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Captura.Masiva\obj\Debug\WFO.Captura.Masiva.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Captura.Masiva\obj\Debug\WFO.Captura.Masiva.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Captura.Masiva.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Captura.Masiva.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Captura.Masiva\bin\Debug\WFO.AccesoDatos.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Funciones.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Propiedades.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Captura.Masiva\bin\Debug\WFO.RegistraLog.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Seguridad.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Captura.Masiva\bin\Debug\DevExpress.Web.v17.2.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Captura.Masiva\bin\Debug\itextsharp.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Captura.Masiva\bin\Debug\EPPlus.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Captura.Masiva\bin\Debug\RFC.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Captura.Masiva\bin\Debug\ConvierteRomanosaLetras.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Captura.Masiva\bin\Debug\WFO.AccesoDatos.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Funciones.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Propiedades.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Captura.Masiva\bin\Debug\WFO.RegistraLog.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Captura.Masiva\bin\Debug\WFO.Seguridad.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Captura.Masiva\bin\Debug\EPPlus.xml
+C:\Users\rogel\source\repos\INE\WFO\WFO.Captura.Masiva\obj\Debug\WFO.Negocio.Procesos.Operacion.CapturaMasiva.csprojAssemblyReference.cache
+C:\Users\rogel\source\repos\INE\WFO\WFO.Captura.Masiva\obj\Debug\WFO.Negocio.Procesos.Operacion.CapturaMasiva.csproj.CopyComplete
+C:\Users\rogel\source\repos\INE\WFO\WFO.Captura.Masiva\obj\Debug\WFO.Captura.Masiva.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Captura.Masiva\obj\Debug\WFO.Captura.Masiva.pdb
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Captura.Masiva\obj\Debug\WFO.Negocio.Procesos.Operacion.CapturaMasiva.csproj.AssemblyReference.cache
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Captura.Masiva\obj\Debug\WFO.Negocio.Procesos.Operacion.CapturaMasiva.csproj.CoreCompileInputs.cache
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Captura.Masiva\bin\Debug\WFO.Captura.Masiva.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Captura.Masiva\bin\Debug\WFO.Captura.Masiva.pdb
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Captura.Masiva\bin\Debug\WFO.AccesoDatos.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Captura.Masiva\bin\Debug\WFO.Funciones.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Captura.Masiva\bin\Debug\WFO.Propiedades.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Captura.Masiva\bin\Debug\WFO.RegistraLog.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Captura.Masiva\bin\Debug\WFO.Seguridad.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Captura.Masiva\bin\Debug\DevExpress.Web.v17.2.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Captura.Masiva\bin\Debug\itextsharp.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Captura.Masiva\bin\Debug\EPPlus.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Captura.Masiva\bin\Debug\RFC.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Captura.Masiva\bin\Debug\DevExpress.Data.v17.2.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Captura.Masiva\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Captura.Masiva\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Captura.Masiva\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Captura.Masiva\bin\Debug\WFO.AccesoDatos.pdb
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Captura.Masiva\bin\Debug\WFO.Funciones.pdb
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Captura.Masiva\bin\Debug\WFO.Propiedades.pdb
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Captura.Masiva\bin\Debug\WFO.RegistraLog.pdb
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Captura.Masiva\bin\Debug\WFO.Seguridad.pdb
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Captura.Masiva\bin\Debug\EPPlus.xml
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Captura.Masiva\obj\Debug\WFO.Negocio.Procesos.Operacion.CapturaMasiva.csproj.CopyComplete
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Captura.Masiva\obj\Debug\WFO.Captura.Masiva.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Captura.Masiva\obj\Debug\WFO.Captura.Masiva.pdb
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Captura.Masiva\bin\Debug\WFO.Captura.Masiva.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Captura.Masiva\bin\Debug\WFO.Captura.Masiva.pdb
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Captura.Masiva\bin\Debug\WFO.AccesoDatos.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Captura.Masiva\bin\Debug\WFO.Funciones.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Captura.Masiva\bin\Debug\WFO.Propiedades.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Captura.Masiva\bin\Debug\WFO.RegistraLog.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Captura.Masiva\bin\Debug\WFO.Seguridad.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Captura.Masiva\bin\Debug\DevExpress.Web.v17.2.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Captura.Masiva\bin\Debug\itextsharp.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Captura.Masiva\bin\Debug\EPPlus.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Captura.Masiva\bin\Debug\RFC.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Captura.Masiva\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Captura.Masiva\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Captura.Masiva\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Captura.Masiva\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Captura.Masiva\bin\Debug\WFO.AccesoDatos.pdb
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Captura.Masiva\bin\Debug\WFO.Funciones.pdb
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Captura.Masiva\bin\Debug\WFO.Propiedades.pdb
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Captura.Masiva\bin\Debug\WFO.RegistraLog.pdb
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Captura.Masiva\bin\Debug\WFO.Seguridad.pdb
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Captura.Masiva\bin\Debug\EPPlus.xml
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Captura.Masiva\obj\Debug\WFO.Negocio.Procesos.Operacion.CapturaMasiva.csproj.AssemblyReference.cache
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Captura.Masiva\obj\Debug\WFO.Negocio.Procesos.Operacion.CapturaMasiva.csproj.CoreCompileInputs.cache
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Captura.Masiva\obj\Debug\WFO.Negocio.Procesos.Operacion.CapturaMasiva.csproj.CopyComplete
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Captura.Masiva\obj\Debug\WFO.Captura.Masiva.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Captura.Masiva\obj\Debug\WFO.Captura.Masiva.pdb

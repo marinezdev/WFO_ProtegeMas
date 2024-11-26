@@ -1,0 +1,98 @@
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Propiedades\bin\Debug\WFO.Propiedades.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Propiedades\bin\Debug\WFO.Propiedades.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Propiedades\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Propiedades\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Propiedades\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Propiedades\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Propiedades\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Propiedades\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Propiedades\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Propiedades\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Propiedades\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Propiedades\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Propiedades\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Propiedades\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Propiedades\obj\Debug\WFO.Propiedades.csprojResolveAssemblyReference.cache
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Propiedades\obj\Debug\WFO.Propiedades.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Propiedades\obj\Debug\WFO.Propiedades.csproj.CopyComplete
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Propiedades\obj\Debug\WFO.Propiedades.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Propiedades\obj\Debug\WFO.Propiedades.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Propiedades\bin\Debug\WFO.Propiedades.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Propiedades\bin\Debug\WFO.Propiedades.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Propiedades\bin\Debug\DevExpress.Data.v17.1.xml
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Propiedades\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Propiedades\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Propiedades\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Propiedades\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Propiedades\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Propiedades\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Propiedades\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Propiedades\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Propiedades\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Propiedades\obj\Debug\WFO.Propiedades.csprojAssemblyReference.cache
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Propiedades\obj\Debug\WFO.Propiedades.csproj.CopyComplete
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Propiedades\obj\Debug\WFO.Propiedades.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Propiedades\obj\Debug\WFO.Propiedades.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Propiedades\bin\Debug\WFO.Propiedades.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Propiedades\bin\Debug\WFO.Propiedades.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Propiedades\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Propiedades\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Propiedades\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Propiedades\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Propiedades\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Propiedades\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Propiedades\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Propiedades\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Propiedades\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Propiedades\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Propiedades\obj\Debug\WFO.Propiedades.csprojAssemblyReference.cache
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Propiedades\obj\Debug\WFO.Propiedades.csproj.CopyComplete
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Propiedades\obj\Debug\WFO.Propiedades.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Propiedades\obj\Debug\WFO.Propiedades.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Propiedades\bin\Debug\WFO.Propiedades.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Propiedades\bin\Debug\WFO.Propiedades.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Propiedades\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Propiedades\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Propiedades\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Propiedades\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Propiedades\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Propiedades\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Propiedades\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Propiedades\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Propiedades\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Propiedades\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Propiedades\obj\Debug\WFO.Propiedades.csprojAssemblyReference.cache
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Propiedades\obj\Debug\WFO.Propiedades.csproj.CopyComplete
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Propiedades\obj\Debug\WFO.Propiedades.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Propiedades\obj\Debug\WFO.Propiedades.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Propiedades\bin\Debug\WFO.Propiedades.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Propiedades\bin\Debug\WFO.Propiedades.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Propiedades\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\rogel\source\repos\INE\WFO\WFO.Propiedades\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\rogel\source\repos\INE\WFO\WFO.Propiedades\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Propiedades\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Propiedades\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Propiedades\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Propiedades\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Propiedades\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Propiedades\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Propiedades\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Propiedades\obj\Debug\WFO.Propiedades.csprojAssemblyReference.cache
+C:\Users\rogel\source\repos\INE\WFO\WFO.Propiedades\obj\Debug\WFO.Propiedades.csproj.CopyComplete
+C:\Users\rogel\source\repos\INE\WFO\WFO.Propiedades\obj\Debug\WFO.Propiedades.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Propiedades\obj\Debug\WFO.Propiedades.pdb
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Propiedades\bin\Debug\WFO.Propiedades.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Propiedades\bin\Debug\WFO.Propiedades.pdb
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Propiedades\obj\Debug\WFO.Propiedades.csproj.AssemblyReference.cache
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Propiedades\obj\Debug\WFO.Propiedades.csproj.CoreCompileInputs.cache
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Propiedades\obj\Debug\WFO.Propiedades.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Propiedades\obj\Debug\WFO.Propiedades.pdb
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Propiedades\bin\Debug\DevExpress.Data.v17.2.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Propiedades\obj\Debug\WFO.Propiedades.csproj.CopyComplete
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Propiedades\bin\Debug\WFO.Propiedades.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Propiedades\bin\Debug\WFO.Propiedades.pdb
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Propiedades\obj\Debug\WFO.Propiedades.csproj.AssemblyReference.cache
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Propiedades\obj\Debug\WFO.Propiedades.csproj.CoreCompileInputs.cache
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Propiedades\obj\Debug\WFO.Propiedades.csproj.CopyComplete
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Propiedades\obj\Debug\WFO.Propiedades.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Propiedades\obj\Debug\WFO.Propiedades.pdb

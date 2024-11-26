@@ -1,0 +1,495 @@
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.dll.config
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\csc.exe
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\csc.exe.config
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\csc.rsp
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\csi.exe
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\csi.exe.config
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\csi.rsp
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\System.AppContext.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\System.Console.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\System.Security.Claims.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\vbc.exe
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\vbc.exe.config
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\vbc.rsp
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\AjaxControlToolkit.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\ClosedXML.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\DevExpress.Charts.v17.2.Core.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\DevExpress.Data.v17.2.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\DevExpress.Office.v17.2.Core.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\DevExpress.Printing.v17.2.Core.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\DevExpress.RichEdit.v17.2.Export.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\DevExpress.SpellChecker.v17.2.Core.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\DevExpress.Utils.v17.2.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\DevExpress.Web.ASPxGauges.v17.2.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\DevExpress.Web.ASPxHtmlEditor.v17.2.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\DevExpress.Web.ASPxRichEdit.v17.2.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\DevExpress.Web.ASPxScheduler.v17.2.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\DevExpress.Web.ASPxSpellChecker.v17.2.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\DevExpress.Web.ASPxThemes.v17.2.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\DevExpress.Web.ASPxTreeList.v17.2.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\DevExpress.Web.Resources.v17.2.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\DevExpress.Web.v17.2.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\DevExpress.XtraCharts.v17.2.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\DevExpress.XtraCharts.v17.2.Web.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\DevExpress.XtraEditors.v17.2.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\DevExpress.XtraGauges.v17.2.Core.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\DevExpress.XtraGauges.v17.2.Presets.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\DevExpress.XtraScheduler.v17.2.Core.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\DocumentFormat.OpenXml.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\EPPlus.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\itextsharp.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\PdfSharp.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\RFC.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\RfcFacil.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\System.IO.Packaging.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.Captura.Masiva.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.Funciones.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.IU.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.Negocio.Cobranza.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.Negocio.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.Negocio.Procesos.Operacion.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.Negocio.Procesos.Promotoria.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.Negocio.Procesos.Supervision.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.Negocio.Procesos.SupervisionGeneral.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.Propiedades.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.RegistraLog.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.Seguridad.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.AccesoDatos.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.Captura.Masiva.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.Funciones.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.IU.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.Negocio.Cobranza.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.Negocio.Procesos.Operacion.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.Negocio.Procesos.Promotoria.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.Negocio.Procesos.SupervisionGeneral.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.Negocio.Procesos.Supervision.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.Negocio.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.Propiedades.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.RegistraLog.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.Seguridad.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\DocumentFormat.OpenXml.xml
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\Microsoft.ReportViewer.WebForms.xml
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.AccesoDatos.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\obj\Release\WFO.csprojResolveAssemblyReference.cache
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\obj\Release\WFO.dll.licenses
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\obj\Release\WFO.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\obj\Release\WFO.csproj.CopyComplete
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\obj\Release\WFO.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\obj\Release\WFO.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO\bin\WFO.Negocio.dll.config
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.dll.config
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\csc.exe
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\csc.exe.config
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\csc.rsp
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\csi.exe
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\csi.exe.config
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\csi.rsp
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\Microsoft.Managed.Core.targets
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\System.AppContext.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\System.Collections.Immutable.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\System.Console.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\System.IO.Compression.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\System.IO.FileSystem.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\System.IO.Pipes.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\System.Reflection.Metadata.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\System.Security.AccessControl.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\System.Security.Claims.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\System.Security.Principal.Windows.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\System.ValueTuple.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\System.Xml.XmlDocument.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\System.Xml.XPath.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\vbc.exe
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\vbc.exe.config
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\vbc.rsp
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\VBCSCompiler.exe
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\roslyn\VBCSCompiler.exe.config
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\Microsoft.ReportViewer.Common.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\Microsoft.ReportViewer.WebForms.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\Microsoft.SqlServer.Types.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\System.IO.FileSystem.Primitives.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\System.IO.Packaging.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.Captura.Masiva.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.Funciones.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.IU.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.Negocio.Cobranza.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.Negocio.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.Negocio.Procesos.Operacion.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.Negocio.Procesos.Promotoria.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.Negocio.Procesos.Supervision.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.Negocio.Procesos.SupervisionGeneral.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.Propiedades.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.RegistraLog.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.Seguridad.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.AccesoDatos.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.Captura.Masiva.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.Funciones.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.IU.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.Negocio.Cobranza.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.Negocio.Procesos.Operacion.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.Negocio.Procesos.Promotoria.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.Negocio.Procesos.SupervisionGeneral.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.Negocio.Procesos.Supervision.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.Negocio.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.Negocio.dll.config
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.Propiedades.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.RegistraLog.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.Seguridad.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\DocumentFormat.OpenXml.xml
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\Microsoft.ReportViewer.WebForms.xml
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\WFO.AccesoDatos.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\de\Microsoft.SqlServer.Types.resources.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\es\Microsoft.SqlServer.Types.resources.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\fr\Microsoft.SqlServer.Types.resources.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\it\Microsoft.SqlServer.Types.resources.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\ja\Microsoft.SqlServer.Types.resources.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\ko\Microsoft.SqlServer.Types.resources.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\pt\Microsoft.SqlServer.Types.resources.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\ru\Microsoft.SqlServer.Types.resources.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\obj\Release\WFO.csprojAssemblyReference.cache
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\obj\Release\WFO.dll.licenses
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\obj\Release\WFO.csproj.CopyComplete
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\obj\Release\WFO.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO\obj\Release\WFO.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.dll.config
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\csc.exe
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\csc.exe.config
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\csc.rsp
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\csi.exe
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\csi.exe.config
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\csi.rsp
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\System.AppContext.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\System.Console.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\vbc.exe
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\vbc.exe.config
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\vbc.rsp
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\System.IO.Packaging.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.Captura.Masiva.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.Funciones.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.IU.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.Negocio.Cobranza.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.Negocio.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.Negocio.Procesos.Operacion.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.Negocio.Procesos.Promotoria.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.Negocio.Procesos.Supervision.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.Negocio.Procesos.SupervisionGeneral.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.Propiedades.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.RegistraLog.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.Seguridad.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.AccesoDatos.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.Captura.Masiva.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.Funciones.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.IU.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.Negocio.Cobranza.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.Negocio.Procesos.Operacion.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.Negocio.Procesos.Promotoria.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.Negocio.Procesos.SupervisionGeneral.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.Negocio.Procesos.Supervision.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.Negocio.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.Negocio.dll.config
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.Propiedades.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.RegistraLog.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.Seguridad.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\DocumentFormat.OpenXml.xml
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\Microsoft.ReportViewer.WebForms.xml
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\WFO.AccesoDatos.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\obj\Release\WFO.csprojAssemblyReference.cache
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\obj\Release\WFO.dll.licenses
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\obj\Release\WFO.csproj.CopyComplete
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\obj\Release\WFO.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO\obj\Release\WFO.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.dll.config
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\csc.exe
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\csc.exe.config
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\csc.rsp
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\csi.exe
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\csi.exe.config
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\csi.rsp
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\System.AppContext.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\System.Console.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\System.IO.Compression.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\System.Security.Claims.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\System.ValueTuple.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\vbc.exe
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\vbc.exe.config
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\vbc.rsp
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\VBCSCompiler.exe
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\System.IO.Packaging.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.Captura.Masiva.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.Funciones.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.IU.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.Negocio.Cobranza.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.Negocio.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.Negocio.Procesos.Operacion.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.Negocio.Procesos.Promotoria.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.Negocio.Procesos.Supervision.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.Negocio.Procesos.SupervisionGeneral.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.Propiedades.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.RegistraLog.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.Seguridad.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.AccesoDatos.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.Captura.Masiva.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.Funciones.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.IU.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.Negocio.Cobranza.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.Negocio.Procesos.Operacion.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.Negocio.Procesos.Promotoria.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.Negocio.Procesos.SupervisionGeneral.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.Negocio.Procesos.Supervision.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.Negocio.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.Negocio.dll.config
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.Propiedades.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.RegistraLog.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.Seguridad.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\DocumentFormat.OpenXml.xml
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\Microsoft.ReportViewer.WebForms.xml
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\bin\WFO.AccesoDatos.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\obj\Release\WFO.csprojAssemblyReference.cache
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\obj\Release\WFO.dll.licenses
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\obj\Release\WFO.csproj.CopyComplete
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\obj\Release\WFO.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO\obj\Release\WFO.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.dll.config
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\csc.exe
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\csc.exe.config
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\csc.rsp
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\csi.exe
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\csi.exe.config
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\csi.rsp
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\System.AppContext.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\System.Console.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\System.IO.Compression.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\System.Security.Claims.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\System.ValueTuple.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\vbc.exe
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\vbc.exe.config
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\vbc.rsp
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\VBCSCompiler.exe
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\System.IO.Packaging.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.Captura.Masiva.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.Funciones.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.IU.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.Negocio.Cobranza.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.Negocio.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.Negocio.Procesos.Operacion.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.Negocio.Procesos.Promotoria.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.Negocio.Procesos.Supervision.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.Negocio.Procesos.SupervisionGeneral.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.Propiedades.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.RegistraLog.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.Seguridad.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.AccesoDatos.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.Captura.Masiva.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.Funciones.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.IU.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.Negocio.Cobranza.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.Negocio.Procesos.Operacion.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.Negocio.Procesos.Promotoria.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.Negocio.Procesos.SupervisionGeneral.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.Negocio.Procesos.Supervision.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.Negocio.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.Negocio.dll.config
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.Propiedades.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.RegistraLog.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.Seguridad.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\DocumentFormat.OpenXml.xml
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\Microsoft.ReportViewer.WebForms.xml
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO\bin\WFO.AccesoDatos.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO\obj\Release\WFO.csprojAssemblyReference.cache
+C:\Users\rogel\source\repos\INE\WFO\WFO\obj\Release\WFO.dll.licenses
+C:\Users\rogel\source\repos\INE\WFO\WFO\obj\Release\WFO.csproj.CopyComplete
+C:\Users\rogel\source\repos\INE\WFO\WFO\obj\Release\WFO.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO\obj\Release\WFO.pdb

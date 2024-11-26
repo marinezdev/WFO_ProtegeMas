@@ -1,0 +1,138 @@
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Negocio.Procesos.Supervision.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Negocio.Procesos.Supervision.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.Data.v17.2.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.Web.v17.2.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.XtraCharts.v17.2.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.XtraCharts.v17.2.Web.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.AccesoDatos.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Funciones.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Propiedades.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.RegistraLog.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Seguridad.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\itextsharp.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\EPPlus.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\RFC.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.Printing.v17.2.Core.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.Office.v17.2.Core.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.Charts.v17.2.Core.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.Web.Resources.v17.2.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\ConvierteRomanosaLetras.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.AccesoDatos.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Funciones.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Propiedades.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.RegistraLog.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Seguridad.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\EPPlus.xml
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\obj\Release\WFO.Negocio.Procesos.Supervision.csprojResolveAssemblyReference.cache
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\obj\Release\WFO.Negocio.Procesos.Supervision.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\obj\Release\WFO.Negocio.Procesos.Supervision.csproj.CopyComplete
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\obj\Release\WFO.Negocio.Procesos.Supervision.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Procesos.Supervision\obj\Release\WFO.Negocio.Procesos.Supervision.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Negocio.Procesos.Supervision.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Negocio.Procesos.Supervision.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.Web.v17.2.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.XtraCharts.v17.2.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.XtraCharts.v17.2.Web.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.AccesoDatos.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Funciones.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Propiedades.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.RegistraLog.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Seguridad.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\itextsharp.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\EPPlus.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\RFC.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.Printing.v17.2.Core.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.Office.v17.2.Core.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.RichEdit.v17.2.Core.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.Charts.v17.2.Core.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.Web.Resources.v17.2.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\ConvierteRomanosaLetras.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.AccesoDatos.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Funciones.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Propiedades.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.RegistraLog.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Seguridad.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\EPPlus.xml
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\obj\Release\WFO.Negocio.Procesos.Supervision.csprojAssemblyReference.cache
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\obj\Release\WFO.Negocio.Procesos.Supervision.csproj.CopyComplete
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\obj\Release\WFO.Negocio.Procesos.Supervision.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Procesos.Supervision\obj\Release\WFO.Negocio.Procesos.Supervision.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Negocio.Procesos.Supervision.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Negocio.Procesos.Supervision.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.AccesoDatos.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Funciones.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Propiedades.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.RegistraLog.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Seguridad.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\itextsharp.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\EPPlus.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\RFC.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.Printing.v17.2.Core.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.Office.v17.2.Core.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.Charts.v17.2.Core.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.Web.Resources.v17.2.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\ConvierteRomanosaLetras.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.AccesoDatos.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Funciones.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Propiedades.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.RegistraLog.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Seguridad.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\EPPlus.xml
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\obj\Release\WFO.Negocio.Procesos.Supervision.csprojAssemblyReference.cache
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\obj\Release\WFO.Negocio.Procesos.Supervision.csproj.CopyComplete
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\obj\Release\WFO.Negocio.Procesos.Supervision.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\obj\Release\WFO.Negocio.Procesos.Supervision.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Negocio.Procesos.Supervision.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Negocio.Procesos.Supervision.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.AccesoDatos.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Funciones.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Propiedades.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.RegistraLog.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Seguridad.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\itextsharp.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\EPPlus.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\RFC.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.Printing.v17.2.Core.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.Office.v17.2.Core.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.Charts.v17.2.Core.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.Web.Resources.v17.2.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\ConvierteRomanosaLetras.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.AccesoDatos.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Funciones.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Propiedades.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.RegistraLog.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Seguridad.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\EPPlus.xml
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\obj\Release\WFO.Negocio.Procesos.Supervision.csprojAssemblyReference.cache
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\obj\Release\WFO.Negocio.Procesos.Supervision.csproj.CopyComplete
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\obj\Release\WFO.Negocio.Procesos.Supervision.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Procesos.Supervision\obj\Release\WFO.Negocio.Procesos.Supervision.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Negocio.Procesos.Supervision.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Negocio.Procesos.Supervision.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.AccesoDatos.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Funciones.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Propiedades.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.RegistraLog.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Seguridad.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\itextsharp.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\EPPlus.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\RFC.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.Printing.v17.2.Core.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.Office.v17.2.Core.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.Charts.v17.2.Core.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\DevExpress.Web.Resources.v17.2.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\ConvierteRomanosaLetras.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.AccesoDatos.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Funciones.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Propiedades.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.RegistraLog.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\WFO.Seguridad.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Procesos.Supervision\bin\Release\EPPlus.xml
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Procesos.Supervision\obj\Release\WFO.Negocio.Procesos.Supervision.csprojAssemblyReference.cache
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Procesos.Supervision\obj\Release\WFO.Negocio.Procesos.Supervision.csproj.CopyComplete
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Procesos.Supervision\obj\Release\WFO.Negocio.Procesos.Supervision.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Procesos.Supervision\obj\Release\WFO.Negocio.Procesos.Supervision.pdb

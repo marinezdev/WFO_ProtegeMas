@@ -1,0 +1,37 @@
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.BaseDatos\bin\Release\WFO.BaseDatos.dacpac
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.BaseDatos\bin\Release\WFO.BaseDatos.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.BaseDatos\bin\Release\WFO.BaseDatos.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.BaseDatos\obj\Release\WFO.BaseDatos.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.BaseDatos\obj\Release\WFO.BaseDatos.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.BaseDatos\bin\Release\WFO.BaseDatos.dacpac
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.BaseDatos\bin\Release\WFO.BaseDatos.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.BaseDatos\bin\Release\WFO.BaseDatos.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.BaseDatos\obj\Release\WFO.BaseDatos.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.BaseDatos\obj\Release\WFO.BaseDatos.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.BaseDatos\obj\Release\Model.xml
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.BaseDatos\obj\Release\refactor.xml
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.BaseDatos\obj\Release\postdeploy.sql
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.BaseDatos\obj\Release\predeploy.sql
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.BaseDatos\obj\Release\Model.xml
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.BaseDatos\obj\Release\refactor.xml
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.BaseDatos\obj\Release\postdeploy.sql
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.BaseDatos\obj\Release\predeploy.sql
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.BaseDatos\bin\Release\WFO.BaseDatos.dacpac
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.BaseDatos\bin\Release\WFO.BaseDatos.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.BaseDatos\bin\Release\WFO.BaseDatos.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.BaseDatos\obj\Release\Model.xml
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.BaseDatos\obj\Release\refactor.xml
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.BaseDatos\obj\Release\postdeploy.sql
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.BaseDatos\obj\Release\predeploy.sql
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.BaseDatos\obj\Release\WFO.BaseDatos.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.BaseDatos\obj\Release\WFO.BaseDatos.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.BaseDatos\bin\Release\WFO.BaseDatos.dacpac
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.BaseDatos\bin\Release\WFO.BaseDatos.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.BaseDatos\bin\Release\WFO.BaseDatos.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.BaseDatos\obj\Release\WFO.BaseDatos.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.BaseDatos\obj\Release\WFO.BaseDatos.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.BaseDatos\bin\Release\WFO.BaseDatos.dacpac
+C:\Users\rogel\source\repos\INE\WFO\WFO.BaseDatos\bin\Release\WFO.BaseDatos.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.BaseDatos\bin\Release\WFO.BaseDatos.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.BaseDatos\obj\Release\WFO.BaseDatos.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.BaseDatos\obj\Release\WFO.BaseDatos.pdb

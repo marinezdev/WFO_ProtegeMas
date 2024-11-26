@@ -1,0 +1,59 @@
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.IU\bin\Debug\WFO.IU.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.IU\bin\Debug\WFO.IU.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.IU\bin\Debug\WFO.Propiedades.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.IU\bin\Debug\WFO.Propiedades.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.IU\obj\Debug\WFO.IU.csprojResolveAssemblyReference.cache
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.IU\obj\Debug\WFO.IU.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.IU\obj\Debug\WFO.IU.csproj.CopyComplete
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.IU\obj\Debug\WFO.IU.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.IU\obj\Debug\WFO.IU.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.IU\bin\Debug\WFO.IU.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.IU\bin\Debug\WFO.IU.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.IU\bin\Debug\WFO.Propiedades.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.IU\bin\Debug\WFO.Propiedades.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.IU\obj\Debug\WFO.IU.csprojAssemblyReference.cache
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.IU\obj\Debug\WFO.IU.csproj.CopyComplete
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.IU\obj\Debug\WFO.IU.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.IU\obj\Debug\WFO.IU.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.IU\bin\Debug\WFO.IU.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.IU\bin\Debug\WFO.IU.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.IU\bin\Debug\WFO.Propiedades.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.IU\bin\Debug\WFO.Propiedades.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.IU\obj\Debug\WFO.IU.csprojAssemblyReference.cache
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.IU\obj\Debug\WFO.IU.csproj.CopyComplete
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.IU\obj\Debug\WFO.IU.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.IU\obj\Debug\WFO.IU.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.IU\bin\Debug\WFO.IU.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.IU\bin\Debug\WFO.IU.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.IU\bin\Debug\WFO.Propiedades.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.IU\bin\Debug\WFO.Propiedades.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.IU\obj\Debug\WFO.IU.csprojAssemblyReference.cache
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.IU\obj\Debug\WFO.IU.csproj.CopyComplete
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.IU\obj\Debug\WFO.IU.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.IU\obj\Debug\WFO.IU.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.IU\bin\Debug\WFO.IU.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.IU\bin\Debug\WFO.IU.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.IU\bin\Debug\WFO.Propiedades.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.IU\bin\Debug\WFO.Propiedades.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.IU\obj\Debug\WFO.IU.csprojAssemblyReference.cache
+C:\Users\rogel\source\repos\INE\WFO\WFO.IU\obj\Debug\WFO.IU.csproj.CopyComplete
+C:\Users\rogel\source\repos\INE\WFO\WFO.IU\obj\Debug\WFO.IU.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.IU\obj\Debug\WFO.IU.pdb
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.IU\bin\Debug\WFO.IU.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.IU\bin\Debug\WFO.IU.pdb
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.IU\bin\Debug\WFO.Propiedades.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.IU\bin\Debug\WFO.Propiedades.pdb
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.IU\obj\Debug\WFO.IU.csproj.AssemblyReference.cache
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.IU\obj\Debug\WFO.IU.csproj.CoreCompileInputs.cache
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.IU\obj\Debug\WFO.IU.csproj.CopyComplete
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.IU\obj\Debug\WFO.IU.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.IU\obj\Debug\WFO.IU.pdb
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.IU\bin\Debug\WFO.IU.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.IU\bin\Debug\WFO.IU.pdb
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.IU\bin\Debug\WFO.Propiedades.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.IU\bin\Debug\WFO.Propiedades.pdb
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.IU\obj\Debug\WFO.IU.csproj.AssemblyReference.cache
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.IU\obj\Debug\WFO.IU.csproj.CoreCompileInputs.cache
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.IU\obj\Debug\WFO.IU.csproj.CopyComplete
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.IU\obj\Debug\WFO.IU.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.IU\obj\Debug\WFO.IU.pdb

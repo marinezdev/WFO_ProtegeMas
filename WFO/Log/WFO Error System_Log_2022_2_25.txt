@@ -1,0 +1,104 @@
+25/02/2022 10:41:00 p. m. - Error: System.Web.HttpUnhandledException (0x80004005): Se produjo una excepción de tipo 'System.Web.HttpUnhandledException'. ---> System.IO.DirectoryNotFoundException: No se puede encontrar una parte de la ruta de acceso 'C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO\Cartas\CartaRechazo_3_NO220861000002.pdf'.
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   en System.IO.FileStream..ctor(String path, FileMode mode)
+   en WFO.Negocio.Procesos.Promotoria.Cartas.MuestraRechazoPDF(carta CartaDatos, HttpResponse Response, Int32 CreaPDF, Int32 Credencial) en C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Procesos.Promotoria\Cartas.cs:línea 474
+   en WFO.Negocio.Procesos.Promotoria.Cartas.CartaRechazoPDF(Int32 IdTramite, HttpResponse Response, Int32 CreaPDF, Int32 IdUsuario) en C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Procesos.Promotoria\Cartas.cs:línea 452
+   en WFO.Procesos.Operador.TramiteProcesar.GeneraCartaEstatusTramite(Int32 IdTramite, String Estatus, Int32 TipoTramite) en C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO\Procesos\Operador\TramiteProcesar.aspx.cs:línea 3292
+   en WFO.Procesos.Operador.TramiteProcesar.Rechazo(String MotivosRechazos) en C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO\Procesos\Operador\TramiteProcesar.aspx.cs:línea 3180
+   en WFO.Procesos.Operador.TramiteProcesar.btnAplicarRechazar_Click(Object sender, EventArgs e) en C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO\Procesos\Operador\TramiteProcesar.aspx.cs:línea 3232
+   en System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   en System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   en System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   en System.Web.UI.Page.HandleError(Exception e)
+   en System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   en System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   en System.Web.UI.Page.ProcessRequest()
+   en System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   en System.Web.UI.Page.ProcessRequest(HttpContext context)
+   en ASP.procesos_operador_tramiteprocesar_aspx.ProcessRequest(HttpContext context)
+   en System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   en System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   en System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+25/02/2022 10:41:16 p. m. - Error: System.Web.HttpUnhandledException (0x80004005): Se produjo una excepción de tipo 'System.Web.HttpUnhandledException'. ---> System.IO.DirectoryNotFoundException: No se puede encontrar una parte de la ruta de acceso 'C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO\Cartas\CartaRechazo_3_NO220861000002.pdf'.
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   en System.IO.FileStream..ctor(String path, FileMode mode)
+   en WFO.Negocio.Procesos.Promotoria.Cartas.MuestraRechazoPDF(carta CartaDatos, HttpResponse Response, Int32 CreaPDF, Int32 Credencial) en C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Procesos.Promotoria\Cartas.cs:línea 474
+   en WFO.Negocio.Procesos.Promotoria.Cartas.CartaRechazoPDF(Int32 IdTramite, HttpResponse Response, Int32 CreaPDF, Int32 IdUsuario) en C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Procesos.Promotoria\Cartas.cs:línea 452
+   en WFO.Procesos.Operador.TramiteProcesar.GeneraCartaEstatusTramite(Int32 IdTramite, String Estatus, Int32 TipoTramite) en C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO\Procesos\Operador\TramiteProcesar.aspx.cs:línea 3292
+   en WFO.Procesos.Operador.TramiteProcesar.Rechazo(String MotivosRechazos) en C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO\Procesos\Operador\TramiteProcesar.aspx.cs:línea 3180
+   en WFO.Procesos.Operador.TramiteProcesar.btnAplicarRechazar_Click(Object sender, EventArgs e) en C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO\Procesos\Operador\TramiteProcesar.aspx.cs:línea 3232
+   en System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   en System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   en System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   en System.Web.UI.Page.HandleError(Exception e)
+   en System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   en System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   en System.Web.UI.Page.ProcessRequest()
+   en System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   en System.Web.UI.Page.ProcessRequest(HttpContext context)
+   en ASP.procesos_operador_tramiteprocesar_aspx.ProcessRequest(HttpContext context)
+   en System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   en System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   en System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+25/02/2022 10:43:54 p. m. - Error: System.Web.HttpUnhandledException (0x80004005): Se produjo una excepción de tipo 'System.Web.HttpUnhandledException'. ---> System.IO.DirectoryNotFoundException: No se puede encontrar una parte de la ruta de acceso 'C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO\Cartas\CartaRechazo_3_NO220861000002.pdf'.
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   en System.IO.FileStream..ctor(String path, FileMode mode)
+   en WFO.Negocio.Procesos.Promotoria.Cartas.MuestraRechazoPDF(carta CartaDatos, HttpResponse Response, Int32 CreaPDF, Int32 Credencial) en C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Procesos.Promotoria\Cartas.cs:línea 474
+   en WFO.Negocio.Procesos.Promotoria.Cartas.CartaRechazoPDF(Int32 IdTramite, HttpResponse Response, Int32 CreaPDF, Int32 IdUsuario) en C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Procesos.Promotoria\Cartas.cs:línea 452
+   en WFO.Procesos.Operador.TramiteProcesar.GeneraCartaEstatusTramite(Int32 IdTramite, String Estatus, Int32 TipoTramite) en C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO\Procesos\Operador\TramiteProcesar.aspx.cs:línea 3292
+   en WFO.Procesos.Operador.TramiteProcesar.Rechazo(String MotivosRechazos) en C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO\Procesos\Operador\TramiteProcesar.aspx.cs:línea 3180
+   en WFO.Procesos.Operador.TramiteProcesar.btnAplicarRechazar_Click(Object sender, EventArgs e) en C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO\Procesos\Operador\TramiteProcesar.aspx.cs:línea 3232
+   en System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   en System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   en System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   en System.Web.UI.Page.HandleError(Exception e)
+   en System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   en System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   en System.Web.UI.Page.ProcessRequest()
+   en System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   en System.Web.UI.Page.ProcessRequest(HttpContext context)
+   en ASP.procesos_operador_tramiteprocesar_aspx.ProcessRequest(HttpContext context)
+   en System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   en System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   en System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+25/02/2022 10:45:07 p. m. - Error: System.Web.HttpUnhandledException (0x80004005): Se produjo una excepción de tipo 'System.Web.HttpUnhandledException'. ---> System.IO.DirectoryNotFoundException: No se puede encontrar una parte de la ruta de acceso 'C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO\Cartas\CartaRechazo_3_NO220861000002.pdf'.
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   en System.IO.FileStream..ctor(String path, FileMode mode)
+   en WFO.Negocio.Procesos.Promotoria.Cartas.MuestraRechazoPDF(carta CartaDatos, HttpResponse Response, Int32 CreaPDF, Int32 Credencial) en C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Procesos.Promotoria\Cartas.cs:línea 474
+   en WFO.Negocio.Procesos.Promotoria.Cartas.CartaRechazoPDF(Int32 IdTramite, HttpResponse Response, Int32 CreaPDF, Int32 IdUsuario) en C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Procesos.Promotoria\Cartas.cs:línea 452
+   en WFO.Procesos.Operador.TramiteProcesar.GeneraCartaEstatusTramite(Int32 IdTramite, String Estatus, Int32 TipoTramite) en C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO\Procesos\Operador\TramiteProcesar.aspx.cs:línea 3292
+   en WFO.Procesos.Operador.TramiteProcesar.Rechazo(String MotivosRechazos) en C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO\Procesos\Operador\TramiteProcesar.aspx.cs:línea 3180
+   en WFO.Procesos.Operador.TramiteProcesar.btnAplicarRechazar_Click(Object sender, EventArgs e) en C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO\Procesos\Operador\TramiteProcesar.aspx.cs:línea 3232
+   en System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   en System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   en System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   en System.Web.UI.Page.HandleError(Exception e)
+   en System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   en System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   en System.Web.UI.Page.ProcessRequest()
+   en System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   en System.Web.UI.Page.ProcessRequest(HttpContext context)
+   en ASP.procesos_operador_tramiteprocesar_aspx.ProcessRequest(HttpContext context)
+   en System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   en System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   en System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)

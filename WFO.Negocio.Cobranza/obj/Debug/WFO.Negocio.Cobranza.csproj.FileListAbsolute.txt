@@ -1,0 +1,163 @@
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Negocio.Cobranza.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Negocio.Cobranza.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.AccesoDatos.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Funciones.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Propiedades.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.RegistraLog.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Seguridad.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Cobranza\bin\Debug\DevExpress.Web.v17.2.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Cobranza\bin\Debug\itextsharp.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Cobranza\bin\Debug\EPPlus.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Cobranza\bin\Debug\RFC.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Cobranza\bin\Debug\ConvierteRomanosaLetras.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.AccesoDatos.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Funciones.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Propiedades.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.RegistraLog.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Seguridad.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Cobranza\bin\Debug\EPPlus.xml
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.csprojResolveAssemblyReference.cache
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.csproj.CopyComplete
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Negocio.Cobranza.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Negocio.Cobranza.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.AccesoDatos.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Funciones.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Propiedades.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.RegistraLog.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Seguridad.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Cobranza\bin\Debug\DevExpress.Web.v17.2.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Cobranza\bin\Debug\itextsharp.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Cobranza\bin\Debug\EPPlus.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Cobranza\bin\Debug\RFC.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Cobranza\bin\Debug\ConvierteRomanosaLetras.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.AccesoDatos.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Funciones.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Propiedades.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.RegistraLog.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Seguridad.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Cobranza\bin\Debug\EPPlus.xml
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.csprojAssemblyReference.cache
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.csproj.CopyComplete
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Negocio.Cobranza.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Negocio.Cobranza.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.AccesoDatos.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Funciones.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Propiedades.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.RegistraLog.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Seguridad.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\DevExpress.Web.v17.2.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\itextsharp.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\EPPlus.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\RFC.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\ConvierteRomanosaLetras.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.AccesoDatos.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Funciones.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Propiedades.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.RegistraLog.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Seguridad.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\EPPlus.xml
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.csprojAssemblyReference.cache
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.csproj.CopyComplete
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Negocio.Cobranza.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Negocio.Cobranza.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.AccesoDatos.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Funciones.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Propiedades.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.RegistraLog.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Seguridad.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\DevExpress.Web.v17.2.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\itextsharp.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\EPPlus.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\RFC.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\ConvierteRomanosaLetras.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.AccesoDatos.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Funciones.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Propiedades.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.RegistraLog.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Seguridad.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Cobranza\bin\Debug\EPPlus.xml
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.csprojAssemblyReference.cache
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.csproj.CopyComplete
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Negocio.Cobranza.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Negocio.Cobranza.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.AccesoDatos.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Funciones.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Propiedades.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.RegistraLog.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Seguridad.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Cobranza\bin\Debug\DevExpress.Web.v17.2.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Cobranza\bin\Debug\itextsharp.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Cobranza\bin\Debug\EPPlus.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Cobranza\bin\Debug\RFC.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Cobranza\bin\Debug\ConvierteRomanosaLetras.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.AccesoDatos.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Funciones.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Propiedades.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.RegistraLog.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Cobranza\bin\Debug\WFO.Seguridad.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Cobranza\bin\Debug\EPPlus.xml
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.csprojAssemblyReference.cache
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.csproj.CopyComplete
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.pdb
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.csproj.AssemblyReference.cache
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.csproj.CoreCompileInputs.cache
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Negocio.Cobranza\bin\Debug\WFO.Negocio.Cobranza.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Negocio.Cobranza\bin\Debug\WFO.Negocio.Cobranza.pdb
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Negocio.Cobranza\bin\Debug\WFO.AccesoDatos.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Negocio.Cobranza\bin\Debug\WFO.Funciones.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Negocio.Cobranza\bin\Debug\WFO.Propiedades.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Negocio.Cobranza\bin\Debug\WFO.RegistraLog.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Negocio.Cobranza\bin\Debug\WFO.Seguridad.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Negocio.Cobranza\bin\Debug\DevExpress.Web.v17.2.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Negocio.Cobranza\bin\Debug\itextsharp.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Negocio.Cobranza\bin\Debug\EPPlus.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Negocio.Cobranza\bin\Debug\RFC.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Negocio.Cobranza\bin\Debug\DevExpress.Data.v17.2.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Negocio.Cobranza\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Negocio.Cobranza\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Negocio.Cobranza\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Negocio.Cobranza\bin\Debug\WFO.AccesoDatos.pdb
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Negocio.Cobranza\bin\Debug\WFO.Funciones.pdb
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Negocio.Cobranza\bin\Debug\WFO.Propiedades.pdb
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Negocio.Cobranza\bin\Debug\WFO.RegistraLog.pdb
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Negocio.Cobranza\bin\Debug\WFO.Seguridad.pdb
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Negocio.Cobranza\bin\Debug\EPPlus.xml
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.csproj.CopyComplete
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.dll
+C:\rmf\work\ASAE\proyects\GIT\WFO_General\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.pdb
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Cobranza\bin\Debug\WFO.Negocio.Cobranza.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Cobranza\bin\Debug\WFO.Negocio.Cobranza.pdb
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Cobranza\bin\Debug\WFO.AccesoDatos.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Cobranza\bin\Debug\WFO.Funciones.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Cobranza\bin\Debug\WFO.Propiedades.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Cobranza\bin\Debug\WFO.RegistraLog.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Cobranza\bin\Debug\WFO.Seguridad.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Cobranza\bin\Debug\DevExpress.Web.v17.2.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Cobranza\bin\Debug\itextsharp.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Cobranza\bin\Debug\EPPlus.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Cobranza\bin\Debug\RFC.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Cobranza\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Cobranza\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Cobranza\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Cobranza\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Cobranza\bin\Debug\WFO.AccesoDatos.pdb
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Cobranza\bin\Debug\WFO.Funciones.pdb
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Cobranza\bin\Debug\WFO.Propiedades.pdb
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Cobranza\bin\Debug\WFO.RegistraLog.pdb
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Cobranza\bin\Debug\WFO.Seguridad.pdb
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Cobranza\bin\Debug\EPPlus.xml
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.csproj.AssemblyReference.cache
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.csproj.CoreCompileInputs.cache
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.csproj.CopyComplete
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.dll
+C:\Users\rogel\source\repos\WFO_ProtegeMas\WFO.Negocio.Cobranza\obj\Debug\WFO.Negocio.Cobranza.pdb

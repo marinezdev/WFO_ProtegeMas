@@ -1,0 +1,26 @@
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Seguridad\bin\Release\WFO.Seguridad.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Seguridad\bin\Release\WFO.Seguridad.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Seguridad\obj\Release\WFO.Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Seguridad\obj\Release\WFO.Seguridad.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Seguridad\obj\Release\WFO.Seguridad.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.Seguridad\obj\Release\WFO.Seguridad.csprojResolveAssemblyReference.cache
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Seguridad\bin\Release\WFO.Seguridad.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Seguridad\bin\Release\WFO.Seguridad.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Seguridad\obj\Release\WFO.Seguridad.csprojAssemblyReference.cache
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Seguridad\obj\Release\WFO.Seguridad.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.Seguridad\obj\Release\WFO.Seguridad.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Seguridad\bin\Release\WFO.Seguridad.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Seguridad\bin\Release\WFO.Seguridad.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Seguridad\obj\Release\WFO.Seguridad.csprojAssemblyReference.cache
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Seguridad\obj\Release\WFO.Seguridad.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.Seguridad\obj\Release\WFO.Seguridad.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Seguridad\bin\Release\WFO.Seguridad.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Seguridad\bin\Release\WFO.Seguridad.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Seguridad\obj\Release\WFO.Seguridad.csprojAssemblyReference.cache
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Seguridad\obj\Release\WFO.Seguridad.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.Seguridad\obj\Release\WFO.Seguridad.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Seguridad\bin\Release\WFO.Seguridad.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Seguridad\bin\Release\WFO.Seguridad.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.Seguridad\obj\Release\WFO.Seguridad.csprojAssemblyReference.cache
+C:\Users\rogel\source\repos\INE\WFO\WFO.Seguridad\obj\Release\WFO.Seguridad.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.Seguridad\obj\Release\WFO.Seguridad.pdb

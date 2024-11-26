@@ -1,0 +1,26 @@
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.RegistraLog\bin\Release\WFO.RegistraLog.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.RegistraLog\bin\Release\WFO.RegistraLog.pdb
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.RegistraLog\obj\Release\WFO.RegistraLog.csprojResolveAssemblyReference.cache
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.RegistraLog\obj\Release\WFO.RegistraLog.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.RegistraLog\obj\Release\WFO.RegistraLog.dll
+C:\Users\Rafael Villa Develop\Documents\Source\CODIGO\WFO\WFO.RegistraLog\obj\Release\WFO.RegistraLog.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.RegistraLog\bin\Release\WFO.RegistraLog.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.RegistraLog\bin\Release\WFO.RegistraLog.pdb
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.RegistraLog\obj\Release\WFO.RegistraLog.csprojAssemblyReference.cache
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.RegistraLog\obj\Release\WFO.RegistraLog.dll
+C:\RMF\ASAE\Proyectos\20191122_001_UsuarioUnico_RRO\WFO\WFO.RegistraLog\obj\Release\WFO.RegistraLog.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.RegistraLog\bin\Release\WFO.RegistraLog.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.RegistraLog\bin\Release\WFO.RegistraLog.pdb
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.RegistraLog\obj\Release\WFO.RegistraLog.csprojAssemblyReference.cache
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.RegistraLog\obj\Release\WFO.RegistraLog.dll
+C:\Users\Ruben Marinez\Desktop\WFO Publico\WFO\WFO.RegistraLog\obj\Release\WFO.RegistraLog.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.RegistraLog\bin\Release\WFO.RegistraLog.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.RegistraLog\bin\Release\WFO.RegistraLog.pdb
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.RegistraLog\obj\Release\WFO.RegistraLog.csprojAssemblyReference.cache
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.RegistraLog\obj\Release\WFO.RegistraLog.dll
+C:\Users\rogel\source\repos\WFO Publico\WFO Publico\WFO\WFO.RegistraLog\obj\Release\WFO.RegistraLog.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.RegistraLog\bin\Release\WFO.RegistraLog.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.RegistraLog\bin\Release\WFO.RegistraLog.pdb
+C:\Users\rogel\source\repos\INE\WFO\WFO.RegistraLog\obj\Release\WFO.RegistraLog.csprojAssemblyReference.cache
+C:\Users\rogel\source\repos\INE\WFO\WFO.RegistraLog\obj\Release\WFO.RegistraLog.dll
+C:\Users\rogel\source\repos\INE\WFO\WFO.RegistraLog\obj\Release\WFO.RegistraLog.pdb
